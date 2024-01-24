@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+</metadata><manifest>
+<item href="toc.html" id="toc" media-type="application/xhtml+xml"/>
+<item href="Chương 01  Ác mộng quấn thân.html" id="Chương 01  Ác mộng quấn thân" media-type="application/xhtml+xml"/>
+<item href="Chương 02  Nữ quỷ truy mệnh.html" id="Chương 02  Nữ quỷ truy mệnh" media-type="application/xhtml+xml"/>
+<item href="Chương 03  Lục đục với nhau.html" id="Chương 03  Lục đục với nhau" media-type="application/xhtml+xml"/>
+<item href="Chương 04  Cửu tầng quy nhất.html" id="Chương 04  Cửu tầng quy nhất" media-type="application/xhtml+xml"/>
+<item href="Chương 05  Nhà bên có phụ.html" id="Chương 05  Nhà bên có phụ" media-type="application/xhtml+xml"/>
+<item href="Chương 06  Váy tím thiếu nữ.html" id="Chương 06  Váy tím thiếu nữ" media-type="application/xhtml+xml"/>
+<item href="Chương 07  Mạch nước ngầm đánh tới.html" id="Chương 07  Mạch nước ngầm đánh tới" media-type="application/xhtml+xml"/>
+<item href="Chương 08  Phu nhân cưng chiều (5K chữ).html" id="Chương 08  Phu nhân cưng chiều (5K chữ)" media-type="application/xhtml+xml"/>
+<item href="Chương 09  Người mang lợi khí (6K chữ).html" id="Chương 09  Người mang lợi khí (6K chữ)" media-type="application/xhtml+xml"/>
+<item href="Chương 10  Một chuyện làm ăn (6K chữ).html" id="Chương 10  Một chuyện làm ăn (6K chữ)" media-type="application/xhtml+xml"/>
+<item href="style.css" id="css" media-type="text/css"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="toc"/>
+<itemref idref="Chương 01  Ác mộng quấn thân"/>
+<itemref idref="Chương 02  Nữ quỷ truy mệnh"/>
+<itemref idref="Chương 03  Lục đục với nhau"/>
+<itemref idref="Chương 04  Cửu tầng quy nhất"/>
+<itemref idref="Chương 05  Nhà bên có phụ"/>
+<itemref idref="Chương 06  Váy tím thiếu nữ"/>
+<itemref idref="Chương 07  Mạch nước ngầm đánh tới"/>
+<itemref idref="Chương 08  Phu nhân cưng chiều (5K chữ)"/>
+<itemref idref="Chương 09  Người mang lợi khí (6K chữ)"/>
+<itemref idref="Chương 10  Một chuyện làm ăn (6K chữ)"/>
+</spine>
+</package>

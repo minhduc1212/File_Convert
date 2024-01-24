@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta content="uuid_id" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Truyện</text>
+</docTitle>
+<navMap><navPoint id="Chương 01  Ác mộng quấn thân" playOrder="1">
+<navLabel>
+<text>Chương 01  Ác mộng quấn thân</text>
+</navLabel>
+<content src="Chương 01  Ác mộng quấn thân.html"/>
+</navPoint>
+<navPoint id="Chương 02  Nữ quỷ truy mệnh" playOrder="2">
+<navLabel>
+<text>Chương 02  Nữ quỷ truy mệnh</text>
+</navLabel>
+<content src="Chương 02  Nữ quỷ truy mệnh.html"/>
+</navPoint>
+<navPoint id="Chương 03  Lục đục với nhau" playOrder="3">
+<navLabel>
+<text>Chương 03  Lục đục với nhau</text>
+</navLabel>
+<content src="Chương 03  Lục đục với nhau.html"/>
+</navPoint>
+<navPoint id="Chương 04  Cửu tầng quy nhất" playOrder="4">
+<navLabel>
+<text>Chương 04  Cửu tầng quy nhất</text>
+</navLabel>
+<content src="Chương 04  Cửu tầng quy nhất.html"/>
+</navPoint>
+<navPoint id="Chương 05  Nhà bên có phụ" playOrder="5">
+<navLabel>
+<text>Chương 05  Nhà bên có phụ</text>
+</navLabel>
+<content src="Chương 05  Nhà bên có phụ.html"/>
+</navPoint>
+<navPoint id="Chương 06  Váy tím thiếu nữ" playOrder="6">
+<navLabel>
+<text>Chương 06  Váy tím thiếu nữ</text>
+</navLabel>
+<content src="Chương 06  Váy tím thiếu nữ.html"/>
+</navPoint>
+<navPoint id="Chương 07  Mạch nước ngầm đánh tới" playOrder="7">
+<navLabel>
+<text>Chương 07  Mạch nước ngầm đánh tới</text>
+</navLabel>
+<content src="Chương 07  Mạch nước ngầm đánh tới.html"/>
+</navPoint>
+<navPoint id="Chương 08  Phu nhân cưng chiều (5K chữ)" playOrder="8">
+<navLabel>
+<text>Chương 08  Phu nhân cưng chiều (5K chữ)</text>
+</navLabel>
+<content src="Chương 08  Phu nhân cưng chiều (5K chữ).html"/>
+</navPoint>
+<navPoint id="Chương 09  Người mang lợi khí (6K chữ)" playOrder="9">
+<navLabel>
+<text>Chương 09  Người mang lợi khí (6K chữ)</text>
+</navLabel>
+<content src="Chương 09  Người mang lợi khí (6K chữ).html"/>
+</navPoint>
+<navPoint id="Chương 10  Một chuyện làm ăn (6K chữ)" playOrder="10">
+<navLabel>
+<text>Chương 10  Một chuyện làm ăn (6K chữ)</text>
+</navLabel>
+<content src="Chương 10  Một chuyện làm ăn (6K chữ).html"/>
+</navPoint>
+</navMap>
+</ncx>
